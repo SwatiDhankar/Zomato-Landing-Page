@@ -1,5 +1,5 @@
 #Zomato landing page clone using HTML and CSS
 
-This is a new line
+All important images and files have been added
 
-This line is written in the new branch named 'NewBranch'
+Done with coding
